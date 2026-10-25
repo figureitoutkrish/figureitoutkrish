@@ -25,9 +25,9 @@ One half of me builds things with data. The other half designs brands. I like pr
 
 ## Toolkit
 
-**Data:** Python · SQL · pandas · NumPy · statsmodels · scikit-learn · Streamlit · OpenCV
-**Web:** JavaScript · TypeScript · Next.js · Three.js · GSAP · HTML / CSS
-**Creative:** Figma · Photoshop · Premiere Pro · Lightroom
+- **Data:** Python · SQL · pandas · NumPy · statsmodels · scikit-learn · Streamlit · OpenCV
+- **Web:** JavaScript · TypeScript · Next.js · Three.js · GSAP · HTML / CSS
+- **Creative:** Figma · Photoshop · Premiere Pro · Lightroom
 
 ---
 
