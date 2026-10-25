@@ -1,10 +1,12 @@
 # Hi, I'm Krish 👋
 
-**Data science student with a creative alter ego.** I'm doing a B.Tech + Diploma in Data Science at NMIMS MPSTME, Mumbai, and I co-founded **Koach**, a content and creative agency.
+### data, design & everything in between.
 
-One half of me builds things with data. The other half designs brands. I like projects where both meet.
+I'm a data science student with a creative side that refuses to stay a side. I build brands through **Koach**, the content and creative agency I co-founded, work with data, and create content at [@figureitoutwithkrish](https://www.instagram.com/figureitoutwithkrish/), documenting life as I figure things out.
 
-🌐 **Portfolio:** [krishviramgama.vercel.app](https://krishviramgama.vercel.app) &nbsp;·&nbsp; 🎨 **Koach:** [@koach.studio](https://instagram.com/koach.studio)
+🎓 **B.Tech + Diploma in Data Science**, SVKM's NMIMS MPSTME, Mumbai (2022 – 2028)
+
+🌐 [Portfolio](https://krishviramgama.vercel.app) · [LinkedIn](https://www.linkedin.com/in/krish-viramgama-27951927a/) · [Behance](https://www.behance.net/theinvrangers) · [YouTube](https://www.youtube.com/@figureitoutwithkrish) · [Instagram](https://www.instagram.com/figureitoutwithkrish/) · [Koach Studio](https://www.instagram.com/koach.studio/)
 
 ---
 
@@ -24,14 +26,24 @@ One half of me builds things with data. The other half designs brands. I like pr
 
 ---
 
-## Toolkit
+## The creative side
 
-- **Data:** Python · SQL · pandas · NumPy · statsmodels · scikit-learn · Streamlit · OpenCV
-- **Web:** JavaScript · TypeScript · Next.js · Three.js · GSAP · HTML / CSS
-- **Creative:** Figma · Photoshop · Premiere Pro · Lightroom
+- **Koach Studio** (co-founder, Feb 2025 – now): a content and creative agency helping brands with their content and scaling them further. **20+ brands** so far, including Atovio, Endura, Alpino and SuperYou.
+- **@rochakforsports:** designed the thumbnails that helped the channel grow from **60K to 200K subscribers**. It started in school at ₹50 a thumbnail; today it's ₹1,000.
+- **Atovio:** 3 ads that crossed **3M+ views** across social platforms.
+
+## On campus
+
+- **Vice Chairperson**, Taqneeq, MPSTME's tech fest (Jul 2026 – now)
+- **Head of Digital Creatives**, IETE-SF MPSTME: executive (2023), sub-head (2024), head (2025)
+- **Executive, Digital Creatives**, Taqneeq (Nov 2023 – Nov 2024)
 
 ---
 
-## Outside the code
+## Toolkit
 
-I've been designing since school: YouTube thumbnails for friends at ₹50 each grew into helping the YouTube channel @rochakforsports go from 60K to 200K subscribers. Today, through Koach, I build and scale brands from logo to marketing strategy.
+- **Data:** Python · SQL · pandas · NumPy · statsmodels · scikit-learn · Streamlit · OpenCV
+- **Web:** JavaScript · TypeScript · Next.js · Three.js · GSAP · HTML / CSS · jQuery
+- **Creative:** Figma · Photoshop · Premiere Pro · Lightroom
+
+When I'm not building or designing, I'm dancing (I once pursued it as a career) or making vlogs.
