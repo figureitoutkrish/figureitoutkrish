@@ -20,7 +20,7 @@ I'm a data science student with a creative side that refuses to stay a side. I b
 | [**PharmaTech**](https://github.com/Rushil0700/PharmaTech) · *team* | Pharmacy inventory and expiry tracker: stock by batch, first-expiry-first-out billing, low-stock alerts and live dashboards. My part: the Django backend and database. | Django, PostgreSQL, React, Grafana, Docker |
 | [**india-inflation-analysis**](https://github.com/figureitoutkrish/india-inflation-analysis) · *team* | An interactive look at what drives India's consumer prices (CPI). | Streamlit, statsmodels, scikit-learn |
 | [**unlock**](https://github.com/figureitoutkrish/unlock) · *in progress* | Smart link-in-bio pages that escape Instagram's in-app browser to the phone's real browser, for more clicks. | Next.js, Cloudflare Workers, Postgres |
-| [**PerfectCircleAppwithPYTHON**](https://github.com/figureitoutkrish/PerfectCircleAppwithPYTHON) | Draw a circle in the air with your finger and get scored on how perfect it is. | OpenCV, MediaPipe, Pygame |
+| [**perfect-circle**](https://github.com/figureitoutkrish/perfect-circle) | Draw a circle in the air with your finger and get scored on how perfect it is. | OpenCV, MediaPipe, Pygame |
 
 *Team projects are marked; each README credits who built it with me.*
 
