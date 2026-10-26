@@ -14,13 +14,13 @@ I'm a data science student with a creative side that refuses to stay a side. I b
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**portfolio**](https://github.com/figureitoutkrish/portfolio) | My site, with two alter egos: drive an F1 car into the pit box (data), or play on a retro Mac (creative). | Three.js, GSAP, Vite |
-| [**defence-speech-enhancement**](https://github.com/figureitoutkrish/defence-speech-enhancement) · *team* | Cleans gunfire-corrupted radio speech (−1.1 dB to +8.9 dB SNR) and runs on an iPhone in about 54 ms. Smart India Hackathon 2026. | PyTorch, Core ML, Swift |
-| [**currency-volatility-forecasting**](https://github.com/figureitoutkrish/currency-volatility-forecasting) · *team* | Predicts how jumpy EUR/USD, USD/JPY and USD/INR will be tomorrow, picking the model 30× more cheaply. | Python, arch, statsmodels |
+| [**portfolio**](https://github.com/figureitoutwithkrish/portfolio) | My site, with two alter egos: drive an F1 car into the pit box (data), or play on a retro Mac (creative). | Three.js, GSAP, Vite |
+| [**defence-speech-enhancement**](https://github.com/figureitoutwithkrish/defence-speech-enhancement) · *team* | Cleans gunfire-corrupted radio speech (−1.1 dB to +8.9 dB SNR) and runs on an iPhone in about 54 ms. Smart India Hackathon 2026. | PyTorch, Core ML, Swift |
+| [**currency-volatility-forecasting**](https://github.com/figureitoutwithkrish/currency-volatility-forecasting) · *team* | Predicts how jumpy EUR/USD, USD/JPY and USD/INR will be tomorrow, picking the model 30× more cheaply. | Python, arch, statsmodels |
 | [**PharmaTech**](https://github.com/Rushil0700/PharmaTech) · *team* | Pharmacy inventory and expiry tracker: stock by batch, first-expiry-first-out billing, low-stock alerts and live dashboards. My part: the Django backend and database. | Django, PostgreSQL, React, Grafana, Docker |
-| [**india-inflation-analysis**](https://github.com/figureitoutkrish/india-inflation-analysis) · *team* | An interactive look at what drives India's consumer prices (CPI). | Streamlit, statsmodels, scikit-learn |
-| [**unlock**](https://github.com/figureitoutkrish/unlock) · *in progress* | Smart link-in-bio pages that escape Instagram's in-app browser to the phone's real browser, for more clicks. | Next.js, Cloudflare Workers, Postgres |
-| [**perfect-circle**](https://github.com/figureitoutkrish/perfect-circle) | Draw a circle in the air with your finger and get scored on how perfect it is. | OpenCV, MediaPipe, Pygame |
+| [**india-inflation-analysis**](https://github.com/figureitoutwithkrish/india-inflation-analysis) · *team* | An interactive look at what drives India's consumer prices (CPI). | Streamlit, statsmodels, scikit-learn |
+| [**unlock**](https://github.com/figureitoutwithkrish/unlock) · *in progress* | Smart link-in-bio pages that escape Instagram's in-app browser to the phone's real browser, for more clicks. | Next.js, Cloudflare Workers, Postgres |
+| [**perfect-circle**](https://github.com/figureitoutwithkrish/perfect-circle) | Draw a circle in the air with your finger and get scored on how perfect it is. | OpenCV, MediaPipe, Pygame |
 
 *Team projects are marked; each README credits who built it with me.*
 
